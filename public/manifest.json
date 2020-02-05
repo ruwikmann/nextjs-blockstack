@@ -1,0 +1,10 @@
+{
+    "name": "Next.js Blockstack Starter",
+    "start_url": "localhost:3000",
+    "description": "A simple Next.js and Blockstack starter with Sass, Bootstrap, custom app and custom document.",
+    "icons": [{
+        "src": "public/favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
+  }
